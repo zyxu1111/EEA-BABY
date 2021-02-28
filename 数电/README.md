@@ -1,1 +1,1 @@
-# Fundanmentals of Digital Electronics
+# Fundamentals of Digital Electronics
